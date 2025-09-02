@@ -7,6 +7,7 @@ def get_chatbot_response(user_input):
     # Temporary mock function (for testing UI only)
     return f"Chatbot response to: {user_input}"
 
+
 # Streamlit UI
 st.set_page_config(page_title="Chatbot UI", page_icon="🤖", layout="centered")
 
